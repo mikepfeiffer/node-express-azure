@@ -26,6 +26,10 @@ npm test
 npm start
 ```
 
+## Deploy Continuously with Azure DevOps:
+
+Coming Soon :)
+
 ## App Info
 
 ### Author
