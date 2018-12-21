@@ -20,7 +20,11 @@ steps:
 
 - script: |
     ls -al
-  displayName: 'list folder'  
+  displayName: 'list folder' 
+
+- script: |
+    echo $(Build.ArtifactStagingDirectory)
+  displayName: 'echo'   
 
 - task: CopyFiles@2
   inputs:
