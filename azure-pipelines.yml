@@ -18,6 +18,10 @@ steps:
     npm test
   displayName: 'npm test'
 
+- script: |
+    list folder
+  displayName: 'ls -al'  
+
 - task: CopyFiles@2
   inputs:
     contents: \**
