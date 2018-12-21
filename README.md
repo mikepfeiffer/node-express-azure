@@ -1,6 +1,6 @@
 # Node & Express Demo App for Azure DevOps
 
-> Deploy Your First CI/CD Pipeline using Azure DevOps.
+> Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
 
 This is a Node and Express used to demonstrate CI/CD with Azure DevOps.
 
