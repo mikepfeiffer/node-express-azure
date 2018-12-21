@@ -19,8 +19,8 @@ steps:
   displayName: 'npm test'
 
 - script: |
-    list folder
-  displayName: 'ls -al'  
+    ls -al
+  displayName: 'list folder'  
 
 - task: CopyFiles@2
   inputs:
