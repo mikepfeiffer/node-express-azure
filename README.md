@@ -4,6 +4,8 @@
 
 This is a Node and Express used to demonstrate CI/CD with Azure DevOps.
 
+### Running and Testing Locally:
+
 ### Install
 
 ```
