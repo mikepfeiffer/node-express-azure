@@ -18,21 +18,12 @@ steps:
     npm test
   displayName: 'npm test'
 
-- script: |
-    ls -al
-  displayName: 'list folder' 
-
-- script: |
-    echo $(Build.ArtifactStagingDirectory)
-  displayName: 'echo'   
-
-- task: CopyFiles@2
+- task: ArchiveFiles@2
+  displayName: 'Archive files'
   inputs:
-    contents: .
-    targetFolder: $(Build.ArtifactStagingDirectory)
-    
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
+    includeRootFolder: false
+
 - task: PublishBuildArtifacts@1
-  inputs:
-    pathtoPublish: $(Build.ArtifactStagingDirectory)
-    artifactName: MyBuildOutputs
+  displayName: 'Publish artifacts: drop'
   
