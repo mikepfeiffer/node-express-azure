@@ -4,7 +4,9 @@
 
 This is a Node and Express used to demonstrate CI/CD with Azure DevOps.
 
-### Running and Testing Locally:
+## Running and Testing Locally:
+
+Clone this repo and use these commands to install and test the app locally.
 
 ### Install
 
