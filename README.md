@@ -6,7 +6,7 @@ This is a Node and Express web application used to demonstrate CI/CD with Azure 
 
 ## Running and Testing Locally:
 
-Clone this repo and use these commands to install and test the app locally.
+Clone this repo and use these commands to install, test, and run the app locally.
 
 ### Install
 
@@ -28,7 +28,7 @@ npm start
 
 ## Deploy Continuously with Azure DevOps:
 
-Click the button below to deploy an Azure Web App for Linux. This will create a new app service plan and web app with a "dev" deployment slot. You can then create build and release pipelines at dev.azure.com to continuously deploy the node application in this repo.
+Click the button below to deploy an Azure Web App for Linux. This will create a new app service plan and web app with a "dev" deployment slot. You can then create build and release pipelines at dev.azure.com to continuously deploy the node application in this repo to the dev deployment slot. Optionally create a stage to deploy to the production slot using a manual approval.
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmikepfeiffer%2Fnode-express-azure%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
