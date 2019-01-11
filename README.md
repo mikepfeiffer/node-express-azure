@@ -35,6 +35,7 @@ Click the button below to deploy an Azure Web App for Linux. This will create a 
 </a>
 
 ## Deploy the App Continuously with Azure DevOps:
+Coming Soon.
 
 ## App Info
 
