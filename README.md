@@ -22,7 +22,7 @@ npm test
 
 ![alt text](https://user-images.githubusercontent.com/5126491/51065379-c1743280-15c1-11e9-80fd-6a3d7ab4ac1b.jpg "Unit Test")
 
-The tests will validate three different routes and that each page is returning the desired content. You can run them locally and they will run as part of your Azure DevOps Build pipeline based on the `azure-pipelines.yml` in this repo.
+The tests will validate three different routes and that each page is returning the desired content and will run as part of your Azure DevOps Build pipeline. See `azure-pipelines.yml` in this repo.
 
 ### Start
 
