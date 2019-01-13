@@ -6,7 +6,7 @@ This is a Node and Express web application used to demonstrate CI/CD with Azure 
 
 ## Running and Testing Locally:
 
-Fork this repo. You can use these commands to install, test, and run the app locally.
+You can use these commands to install, test, and run the app locally. (Not Required)
 
 ### Install
 
