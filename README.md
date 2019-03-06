@@ -4,6 +4,8 @@
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
+[![Build Status](https://dev.azure.com/punnarpulusu/node-demo-punna/_apis/build/status/Punnapulusu.node-express-azure?branchName=master)](https://dev.azure.com/punnarpulusu/node-demo-punna/_build/latest?definitionId=5&branchName=master)
+
 ## Running and Testing Locally:
 
 You can use these commands to install, test, and run the app locally. (Not Required)
@@ -47,8 +49,6 @@ This walkthrough contains all the steps you should follow to fork this repo and 
 
 ### Author
 
-Mike Pfeiffer
-[@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
 
 ### Version
 
