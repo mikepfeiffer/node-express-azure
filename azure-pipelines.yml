@@ -10,3 +10,5 @@ jobs:
     inputs:
       rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
       includeRootFolder: false
+  - task: PublishBuildArtifacts@1
+    displayName: 'Publish artifacts: drop'
