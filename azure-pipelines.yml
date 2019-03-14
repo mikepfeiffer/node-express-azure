@@ -1,7 +1,6 @@
-trigger:
-- master
+jobs:
 
-job: Linux
+- job: Linux
   pool:
     vmImage: 'ubuntu-16.04'
   steps:
