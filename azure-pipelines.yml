@@ -10,13 +10,13 @@ steps:
     versionSpec: '8.x'
   displayName: 'Install Node.js'
 
-- script: |
-    npm install
+steps:
+  - template: steps/build.yml
   displayName: 'npm install'
 
-- script: |
-    npm test
-  displayName: 'npm test'
+#- script: |
+#    npm test
+#  displayName: 'npm test'
 
 - task: ArchiveFiles@2
   displayName: 'Archive files'
