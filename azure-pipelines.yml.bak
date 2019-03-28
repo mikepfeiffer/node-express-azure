@@ -1,10 +1,10 @@
 resources:
   repositories:
-    - repository: templates
-      type: github
-      connection: Punnapulusu
-      #name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
-      source: CommonBuild/BuildTemplate
-      ref: refs/heads/master
+  - repository: templates
+    type: github
+    connection: Punnapulusu
+    #name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
+    source: CommonBuild/BuildTemplate
+    ref: 'refs/heads/master'
 jobs:
 - template: common.yml@templates

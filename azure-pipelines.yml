@@ -1,6 +1,6 @@
 resources:
   repositories:
-  - repository: templates
+  - repository: CommonBuild
     type: github
     connection: Punnapulusu
     #name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
