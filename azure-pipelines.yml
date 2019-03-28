@@ -4,7 +4,7 @@ resources:
     type: GitHub
     endpoint: test2
     name: CommonBuild/BuildTemplate
-    ref: refs/remotes/origin/HEAD
+    ref: refs/heads/master
 
 jobs:
 - template: common.yml@template
