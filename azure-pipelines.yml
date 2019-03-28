@@ -5,6 +5,6 @@ resources:
     #connection: Punnapulusu
     endpoint: Punnapulusu
     name: CommonBuild/BuildTemplate
-    #ref: refs/heads/master
+    ref: refs/heads/master
 jobs:
 - template: common.yml@CommonBuild
