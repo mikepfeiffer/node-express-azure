@@ -1,0 +1,128 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bec08504-759b-4fe2-b5da-0f4366eb2fbc\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/azure-pipelines.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/azure-pipelines.yml\" afterDir=\"false\" />\n    </list>\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FavoritesManager\">\n    <favorites_list name=\"node-express-azure\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n      <file pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/azure-pipelines.yml\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"180\">\n              <caret line=\"9\" lean-forward=\"true\" selection-start-line=\"9\" selection-end-line=\"9\" />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/steps/build.yml\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\" />\n        </entry>\n      </file>\n      <file pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/azuredeploy.json\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\" />\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/azure-pipelines.yml\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectFrameBounds\">\n    <option name=\"x\" value=\"2123\" />\n    <option name=\"y\" value=\"49\" />\n    <option name=\"width\" value=\"1680\" />\n    <option name=\"height\" value=\"982\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"node-express-azure\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"node-express-azure\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"node-express-azure\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"node-express-azure\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"steps\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"node-express-azure\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"External Libraries\" type=\"cb654da1:ExternalLibrariesNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"Course\" />\n      <pane id=\"PackagesPane\" />\n      <pane id=\"Scope\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"TF_FMT\" value=\"false\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\n    <property name=\"project.structure.last.edited\" value=\"SDKs\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.pluginManager\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"bec08504-759b-4fe2-b5da-0f4366eb2fbc\" name=\"Default Changelist\" comment=\"\" />\n      <created>1553735309224</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1553735309224</updated>\n      <workItem from=\"1553735312290\" duration=\"181000\" />\n      <workItem from=\"1553735514063\" duration=\"105000\" />\n      <workItem from=\"1553735639730\" duration=\"939000\" />\n      <workItem from=\"1553809106872\" duration=\"54000\" />\n      <workItem from=\"1553809198919\" duration=\"666000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"1945000\" />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"2123\" y=\"49\" width=\"1680\" height=\"982\" extended-state=\"0\" />\n    <layout>\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" sideWeight=\"0.4988764\" visible=\"true\" weight=\"0.24969475\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info id=\"Designer\" order=\"2\" />\n      <window_info id=\"Favorites\" order=\"3\" sideWeight=\"0.5011236\" side_tool=\"true\" weight=\"0.24969475\" />\n      <window_info id=\"Azure Explorer\" order=\"4\" weight=\"0.32967034\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" />\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"9\" />\n      <window_info anchor=\"bottom\" id=\"Educational.CheckDetails\" order=\"10\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"11\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"12\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Azure Activity Log\" order=\"13\" />\n      <window_info anchor=\"bottom\" id=\"Cosmos Serverless Spark Jobs\" order=\"14\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Jenkins\" order=\"3\" />\n      <window_info anchor=\"right\" id=\"Maven\" order=\"4\" />\n      <window_info anchor=\"right\" id=\"SciView\" order=\"5\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"6\" />\n      <window_info anchor=\"right\" id=\"Database\" order=\"7\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/views/contact.handlebars\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.gitignore\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.gitattributes\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/public/images/pic02.jpg\">\n      <provider selected=\"true\" editor-type-id=\"images\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/views/index.handlebars\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/config.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"40\">\n          <caret line=\"2\" column=\"1\" selection-start-line=\"2\" selection-start-column=\"1\" selection-end-line=\"2\" selection-end-column=\"1\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/azure-pipelines.yml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"180\">\n          <caret line=\"9\" lean-forward=\"true\" selection-start-line=\"9\" selection-end-line=\"9\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/steps/build.yml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/azuredeploy.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ArtifactsStructureConfigurable.UI\">\n        <settings>\n          <artifact-editor />\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"FacetStructureConfigurable.UI\">\n        <settings>\n          <last-edited>No facets are configured</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <last-edited>groovy-2.5.1</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <last-edited>1.8</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ModuleStructureConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 9b21b86f9d0c0184c38f3f97f5de71924b47456a)
++++ .idea/workspace.xml	(date 1553812387000)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="bec08504-759b-4fe2-b5da-0f4366eb2fbc" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/azure-pipelines.yml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -19,7 +19,7 @@
+         <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="180">
+-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
++              <caret line="9" selection-start-line="9" selection-end-line="9" />
+             </state>
+           </provider>
+         </entry>
+@@ -58,6 +58,9 @@
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
++      <pane id="Course" />
++      <pane id="PackagesPane" />
++      <pane id="Scope" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -78,12 +81,10 @@
+           <select />
+         </subPane>
+       </pane>
+-      <pane id="Course" />
+-      <pane id="PackagesPane" />
+-      <pane id="Scope" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="TF_FMT" value="false" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+@@ -120,17 +121,26 @@
+       <workItem from="1553735514063" duration="105000" />
+       <workItem from="1553735639730" duration="939000" />
+       <workItem from="1553809106872" duration="54000" />
+-      <workItem from="1553809198919" duration="666000" />
++      <workItem from="1553809198919" duration="875000" />
++      <workItem from="1553812377645" duration="9000" />
++    </task>
++    <task id="LOCAL-00001" summary="Updating">
++      <created>1553811879170</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1553811879170</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="1945000" />
++    <option name="totallyTimeSpent" value="2163000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="2123" y="49" width="1680" height="982" extended-state="0" />
+     <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988764" visible="true" weight="0.24969475" />
++      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988764" visible="true" weight="0.24969475" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Designer" order="2" />
+       <window_info id="Favorites" order="3" sideWeight="0.5011236" side_tool="true" weight="0.24969475" />
+@@ -143,11 +153,11 @@
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Version Control" order="8" />
++      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.498779" visible="true" weight="0.32921347" />
+       <window_info anchor="bottom" id="Database Changes" order="9" />
+       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+       <window_info anchor="bottom" id="Terminal" order="11" />
+-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
++      <window_info active="true" anchor="bottom" id="Event Log" order="12" sideWeight="0.501221" side_tool="true" visible="true" weight="0.32921347" />
+       <window_info anchor="bottom" id="Azure Activity Log" order="13" />
+       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="14" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+@@ -163,6 +173,10 @@
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="1" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Updating" />
++    <option name="LAST_COMMIT_MESSAGE" value="Updating" />
++  </component>
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/views/contact.handlebars">
+       <provider selected="true" editor-type-id="text-editor" />
+@@ -192,7 +206,7 @@
+     <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="180">
+-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
++          <caret line="9" selection-start-line="9" selection-end-line="9" />
+         </state>
+       </provider>
+     </entry>
+@@ -255,10 +269,12 @@
+       </state>
+       <state key="ModuleStructureConfigurable.UI">
+         <settings>
++          <last-edited>node-express-azure</last-edited>
+           <splitter-proportions>
+             <option name="proportions">
+               <list>
+                 <option value="0.2" />
++                <option value="0.6" />
+               </list>
+             </option>
+           </splitter-proportions>
