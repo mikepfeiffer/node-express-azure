@@ -3,7 +3,7 @@ resources:
   - repository: CommonBuild
     type: GitHub
     #connection: Punnapulusu
-    # name: 'Punnapulusu'
+    endpoint: Punnapulusu
     name: CommonBuild/BuildTemplate
     #ref: refs/heads/master
 jobs:
