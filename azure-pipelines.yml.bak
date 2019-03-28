@@ -1,9 +1,9 @@
 resources:
   repositories:
-    - repository: templates
+    - repository: CommonBuild
       type: github
-      endpoint: https://github.com/
+      endpoint: Punna_Wells
       name: CommonBuild/BuildTemplates
 
 jobs:
-- template: common.yml@templates  # Template reference
+- template: common.yml@BuildTemplates  # Template reference
