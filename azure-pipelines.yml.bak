@@ -2,6 +2,7 @@ resources:
   repositories:
     - repository: templates
       type: github
+      endpoint: https://github.com/
       name: CommonBuild/BuildTemplates
 
 jobs:
