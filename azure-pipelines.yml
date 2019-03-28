@@ -2,7 +2,7 @@ resources:
   repositories:
     - repository: templates
       type: github
-      endpoint: Punnapulus
+      endpoint: Punnapulusu
       ref: master
       name: CommonBuild/BuildTemplate
 
