@@ -6,4 +6,4 @@ resources:
       name: CommonBuild/BuildTemplate
 
 jobs:
-- template: common.yml@templates  # Template reference
+- template: common.yml@templates
