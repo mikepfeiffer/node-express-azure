@@ -4,7 +4,7 @@ resources:
       type: github
       endpoint: Punnapulusu
       ref: origin/master
-      name: CommonBuild
+      name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
       #name: CommonBuild/BuildTemplate
 
 jobs:
