@@ -2,8 +2,8 @@ resources:
   repositories:
   - repository: CommonBuild
     type: GitHub
-    connection: Punnapulusu
-    name: Punnapulusu
+    #connection: Punnapulusu
+    name: 'Punnapulusu'
     source: CommonBuild/BuildTemplate
     ref: refs/heads/master
 jobs:
