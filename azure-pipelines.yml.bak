@@ -3,7 +3,7 @@ resources:
     - repository: templates
       type: github
       endpoint: Punnapulusu
-      name: CommonBuild/BuildTemplates
+      name: CommonBuild/BuildTemplate
 
 jobs:
 - template: common.yml@templates  # Template reference
