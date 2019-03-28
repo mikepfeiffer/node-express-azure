@@ -1,7 +1,7 @@
 resources:
   repositories:
   - repository: CommonBuild
-    type: github
+    type: GitHub
     connection: Punnapulusu
     name: Punnapulusu
     source: CommonBuild/BuildTemplate
