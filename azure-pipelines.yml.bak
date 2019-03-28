@@ -3,9 +3,9 @@ resources:
     - repository: templates
       type: github
       endpoint: Punnapulusu
-      ref: origin/master
-      name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
-      #name: CommonBuild/BuildTemplate
+      ref: refs/heads/master
+      #name: https://github.com/Punnapulusu/CommonBuild/BuildTemplate
+      name: CommonBuild/BuildTemplate
 
 jobs:
 - template: common.yml@templates
