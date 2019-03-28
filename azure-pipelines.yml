@@ -3,7 +3,7 @@ resources:
     - repository: templates
       type: github
       endpoint: Punnapulusu
-      ref: master
+      ref: origin/master
       name: CommonBuild/BuildTemplate
 
 jobs:
