@@ -3,7 +3,7 @@ resources:
   - repository: template
     type: GitHub
     endpoint: test2
-    name: CommonBuild/BuildTemplate
+    name: CommonBuilde
     ref: refs/heads/master
 
 jobs:
