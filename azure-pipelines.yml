@@ -1,10 +1,10 @@
 resources:
   repositories:
   - repository: template
-    type: git
+    type: GitHub
     endpoint: test2
     name: CommonBuild
-    ref: 
+    ref: refs/remotes/origin/master
 
 jobs:
 - template: common.yml@template
