@@ -1,7 +1,7 @@
 resources:
   repositories:
   - repository: template
-    type: GitHub
+    type: git
     endpoint: test2
     name: CommonBuild
     ref: 
