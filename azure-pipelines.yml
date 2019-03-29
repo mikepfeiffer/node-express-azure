@@ -2,7 +2,7 @@ resources:
   repositories:
   - repository: template
     type: GitHub
-    endpoint: test2
+    endpoint: WellsTest
     name: CommonBuild
     ref: refs/remotes/origin/master
 
