@@ -2,7 +2,7 @@ const config = require('./config');
 const express = require('express');
 const path = require('path');
 const exphbs = require('express-handlebars');
-//testing cicd
+//testing cicd 2
 const index = require('./routes/index');
 const who = require('./routes/who');
 const contact = require('./routes/contact');
