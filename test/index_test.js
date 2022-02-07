@@ -13,7 +13,7 @@ describe('/GET', () => {
             .get('/')
             .end((err, res) => {
                 res.should.have.status(200);
-                res.text.should.contain('Welcome to Qritive-Healthcare!');
+                res.text.should.contain('Welcome to Qritive-Healthcare-Product!');
                 done();
             });
     });
