@@ -8,7 +8,7 @@ const server = require('../app');
 chai.use(chaiHttp);
 
 describe('/GET', () => {
-    it('HOME PAGE ERROR !', (done) => {
+    it('******* HOME PAGE *******', (done) => {
         chai.request(`http://localhost:${config.port}`)
             .get('/')
             .end((err, res) => {

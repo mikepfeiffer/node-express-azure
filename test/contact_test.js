@@ -8,7 +8,7 @@ const server = require('../app');
 chai.use(chaiHttp);
 
 describe('/GET', () => {
-    it('CONTACT PAGE ERROR !', (done) => {
+    it('******* CONTACT PAGE *******', (done) => {
         chai.request(`http://localhost:${config.port}`)
             .get('/contact')
             .end((err, res) => {

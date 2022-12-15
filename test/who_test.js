@@ -8,7 +8,7 @@ const server = require('../app');
 chai.use(chaiHttp);
 
 describe('/GET', () => {
-    it('WHO PAGE ERROR !', (done) => {
+    it('******* WHO PAGE *******', (done) => {
         chai.request(`http://localhost:${config.port}`)
             .get('/who')
             .end((err, res) => {
