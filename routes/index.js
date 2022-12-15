@@ -3,9 +3,9 @@ const router = express.Router();
 
 /* GET home page. */
 router.get('/', (req, res) => {
-  geterror() ; 
+  //geterror() ; 
   res.render('index', {
-    title: 'Welcome to Contoso!',   
+    title: 'Azure CI/CD Pipeline',   
   });
 });
 
