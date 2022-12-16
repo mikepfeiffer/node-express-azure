@@ -5,7 +5,7 @@ pool:
   vmImage: 'Ubuntu-20.04'
 
 steps:
-- task: NodeTool@0
+- task: NodeTool@0  #Finds or downloads and caches the specified version spec of Node.js and adds it to the PATH.
   inputs:
     versionSpec: '8.x'
   displayName: 'Install Node.js'
@@ -18,12 +18,15 @@ steps:
     npm test
   displayName: 'npm test'
 
-- task: ArchiveFiles@2
+- task: ArchiveFiles@2  #Archive files v2 Compress files into .7z, .tar.gz, or .zip.
   displayName: 'Archive files'
   inputs:
-    rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
-    includeRootFolder: false
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)' #Name of the root folder or the file path to files to add to the archive. 
+                                                          #For folders, everything in the named folder is added to the archive.
+    includeRootFolder: false   #Prepends the root folder name to file paths in the archive. Otherwise, all file paths will start one level lower.
+                               #For example, if the root folder is: /home/user/output/classes/ and the file path: com/acme/Main.class.
+                               #The resulting archive will contain: classes/com/acme/Main.class. Otherwise, the resulting archive will contain: com/acme/Main.class.
 
-- task: PublishBuildArtifacts@1
+- task: PublishBuildArtifacts@1  #Publish build artifacts to Azure Pipelines
   displayName: 'Publish artifacts: drop'
   
