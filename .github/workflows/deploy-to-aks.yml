@@ -19,4 +19,4 @@ jobs:
     - name: Use context
       run: kubectl config use-context testacd-k8s
     - name: Deploy to AKS
-      run: kubectl apply -f azure-vote.yaml -n thameem #Please mention here in which namespace you wanna deploy
+      run: kubectl apply -f azure-vote.yaml -n pj #Please mention here in which namespace you wanna deploy
