@@ -1,7 +1,7 @@
 {
   "name": "node-express-azure",
   "version": "1.0.0",
-  "description": "> Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.",
+  "description": "> Sample Node app to demonstrate GitHub Copilot-assisted debugging.",
   "main": "app.js",
   "scripts": {
     "build": "npm install",
@@ -11,14 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "*",
-    "express-handlebars": "3.0.0",
-    "tedious": "^11.4.0"
+    "express": "4.16.0",
+    "express-handlebars": "^7.1.3",
+    "tedious": "^18.2.4"
   },
   "devDependencies": {
-    "mocha": "5.2.0",
     "chai": "4.2.0",
-    "chai-http": "4.2.0"
+    "chai-http": "4.2.0",
+    "mocha": "^10.7.0"
   },
   "directories": {
     "test": "test"
