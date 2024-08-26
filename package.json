@@ -1,7 +1,7 @@
 {
   "name": "node-express-azure",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "> Sample Node app to demonstrate GitHub Copilot-assisted debugging.",
   "main": "app.js",
   "scripts": {
     "build": "npm install",
@@ -16,8 +16,20 @@
     "tedious": "^18.2.4"
   },
   "devDependencies": {
-    "mocha": "5.2.0",
     "chai": "4.2.0",
-    "chai-http": "4.2.0"
-  }
+    "chai-http": "4.2.0",
+    "mocha": "^10.7.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothywarner/node-express-azure.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/timothywarner/node-express-azure/issues"
+  },
+  "homepage": "https://github.com/timothywarner/node-express-azure#readme"
 }
